@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/halahalliaravind/EduvanzaTask/static/css/main.5f361e03.chunk.css",
-    "main.js": "/halahalliaravind/EduvanzaTask/static/js/main.d73f42ae.chunk.js",
-    "main.js.map": "/halahalliaravind/EduvanzaTask/static/js/main.d73f42ae.chunk.js.map",
+    "main.js": "/halahalliaravind/EduvanzaTask/static/js/main.589be261.chunk.js",
+    "main.js.map": "/halahalliaravind/EduvanzaTask/static/js/main.589be261.chunk.js.map",
     "runtime-main.js": "/halahalliaravind/EduvanzaTask/static/js/runtime-main.2667501e.js",
     "runtime-main.js.map": "/halahalliaravind/EduvanzaTask/static/js/runtime-main.2667501e.js.map",
     "static/js/2.277985d9.chunk.js": "/halahalliaravind/EduvanzaTask/static/js/2.277985d9.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/5.67d04985.chunk.js": "/halahalliaravind/EduvanzaTask/static/js/5.67d04985.chunk.js",
     "static/js/5.67d04985.chunk.js.map": "/halahalliaravind/EduvanzaTask/static/js/5.67d04985.chunk.js.map",
     "index.html": "/halahalliaravind/EduvanzaTask/index.html",
-    "precache-manifest.cf9528d8b3b66926851e1a23d94d69fb.js": "/halahalliaravind/EduvanzaTask/precache-manifest.cf9528d8b3b66926851e1a23d94d69fb.js",
+    "precache-manifest.4f71b956b1fcf33bbbb53d434d7bdb96.js": "/halahalliaravind/EduvanzaTask/precache-manifest.4f71b956b1fcf33bbbb53d434d7bdb96.js",
     "service-worker.js": "/halahalliaravind/EduvanzaTask/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/halahalliaravind/EduvanzaTask/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.277985d9.chunk.js.LICENSE.txt": "/halahalliaravind/EduvanzaTask/static/js/2.277985d9.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.2667501e.js",
     "static/js/2.277985d9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d73f42ae.chunk.js"
+    "static/js/main.589be261.chunk.js"
   ]
 }
