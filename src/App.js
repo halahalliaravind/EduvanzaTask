@@ -4,6 +4,7 @@ import Main from "./containers/Main";
 import Headers from "./containers/Header";
 
 //added all working files
+//removed some files
 function App() {
   return (
     <div className="App">
